@@ -3,6 +3,13 @@ Arp scanner made in python using scapy
 
 ## Usage Guide:
 
+### Prerequisites:
+Before using the script, make sure to install the necessary dependencies. You can install them via `pip`:
+
+```bash
+pip install scapy psutil
+```
+
 ### Scanning a Target Network:
 Use the `-t` or `--target` flag to specify the network range:
 
