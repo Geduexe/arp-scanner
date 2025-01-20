@@ -4,7 +4,6 @@ import psutil
 import ipaddress
 import socket
 
-# art
 print(r"""
     .       .  .   . .   .   . .    +  .
   .     .  :     .    .. :. .___---------___.
